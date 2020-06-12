@@ -1,4 +1,4 @@
 {
-  "arrowParens": "avoid",
-  "semi": false
+  "printWidht": 150,
+  "singleQuote": true
 }
